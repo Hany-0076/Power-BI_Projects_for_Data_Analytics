@@ -1,2 +1,2 @@
-# Power-BI_Projects_for_Data_Analytics
+# Power BI Projects for Data Analytics
 
