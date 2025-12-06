@@ -45,6 +45,13 @@ This set of measures strengthens the analysis by ensuring accurate calculations,
 <img width="406" height="436" alt="Data Careers Overview DAX and Measures" src="https://github.com/user-attachments/assets/3e53bf00-e70d-4e1e-9c85-cebb9dc6664e" />
 </p>
 
+### 🟡 Project Video
+This video provides a walkthrough of the full Power BI dashboard developed for analyzing the data job market. It demonstrates how users can explore job roles, compare skill requirements, review salary insights, and drill into detailed information for each position. The walkthrough highlights the key visuals, interactions, and DAX-driven insights that make the dashboard both informative and easy to use.
+
+  
+https://github.com/user-attachments/assets/45467274-4ef5-4fb8-9a7e-eee306c0e705
+
+
 
 
 
