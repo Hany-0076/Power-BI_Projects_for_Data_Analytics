@@ -15,7 +15,7 @@ A collection of Power BI projects focused on data analytics, including:
 </br>
 
 ## 1) 🚀 Data Careers Overview
-This Power BI project provides an interactive look into careers in the Data industry. It includes two connected dashboards: a main overview dashboard and a drill-through details dashboard. The project highlights job demand, required skills and its popularity, salary ranges, and global hiring trends for roles such as Data Analyst, Data Engineer, and Data Scientist. Users can explore how each role compares in terms of skills, salaries, and job availability across different countries.
+This Power BI project provides an interactive look into careers in the Data industry. It includes two connected dashboards: a main overview dashboard and a drill-through for specific data role details dashboard. The project highlights job demand, required skills and its popularity, salary ranges, and global hiring trends for roles such as Data Analyst, Data Engineer, and Data Scientist. Users can explore how each role compares in terms of skills, salaries, and job availability across different countries.
 
 ### 🟡 Overview Dashboard
 The main dashboard gives a broad overview of the data job market. It displays total job count, average skills per job, median salaries, and the most in-demand technical skills. Users can filter results by job title and country to see how job demand and salaries change based on their selections. This dashboard is designed to help users quickly understand overall trends in the Data field.
